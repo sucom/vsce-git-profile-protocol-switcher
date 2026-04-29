@@ -1,4 +1,4 @@
-# Git Profile-Protocol Switcher
+# Git Profile-Protocol Switcher (VS Code Family Extension)
 
 <p>
   <img src="icon-sm.png" alt="Git Profile-Protocol Switcher" width="128"/>
