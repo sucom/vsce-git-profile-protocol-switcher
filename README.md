@@ -1,7 +1,7 @@
 # Git Profile-Protocol Switcher (VS Code Family Extension)
 
 <p>
-  <img src="icon-sm.png" alt="Git Profile-Protocol Switcher" width="128"/>
+  <img src="icon.png" alt="Git Profile-Protocol Switcher" width="128"/>
 </p>
 
 A lightning-fast, fully offline utility to visualize and switch your Git user profiles and remote transport protocols (HTTPS/SSH) directly from the VS Code status bar.
@@ -204,33 +204,40 @@ This extension is completely offline. It reads your local `~/.ssh/config` strict
 ## ✨ Other Related Extensions
 
 - Git SSH Config Manager -
-  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.git-ssh-config-manager)
-  | [Open VSX Registry](https://open-vsx.org/extension/SPAjs/git-ssh-config-manager)
+  [Open VSX Registry](https://open-vsx.org/extension/SPAjs/git-ssh-config-manager)
+  | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.git-ssh-config-manager)
+
+- Git Repo Manager -
+  [Open VSX Registry](https://open-vsx.org/extension/SPAjs/git-repo-manager)
+  | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.git-repo-manager)
 
 - Git Snapshots -
-  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.git-snapshots)
-  | [Open VSX Registry](https://open-vsx.org/extension/SPAjs/git-snapshots)
+  [Open VSX Registry](https://open-vsx.org/extension/SPAjs/git-snapshots)
+  | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.git-snapshots)
 
 - Git Pull Agent -
-  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.git-pull-agent)
-  | [Open VSX Registry](https://open-vsx.org/extension/SPAjs/git-pull-agent)
+  [Open VSX Registry](https://open-vsx.org/extension/SPAjs/git-pull-agent)
+  | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.git-pull-agent)
 
+- Git Open Remote Repo/Files in Browser -
+  [Open VSX Registry](https://open-vsx.org/extension/SPAjs/git-open-remote-repo-file-in-browser)
+  | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.git-open-remote-repo-file-in-browser)
 
 - Backup File -
-  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.backup-file)
-  | [Open VSX Registry](https://open-vsx.org/extension/SPAjs/backup-file)
+  [Open VSX Registry](https://open-vsx.org/extension/SPAjs/backup-file)
+  | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.backup-file)
 
 - Tagged File Snapshots -
-  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.tagged-file-snapshots)
-  | [Open VSX Registry](https://open-vsx.org/extension/SPAjs/tagged-file-snapshots)
+  [Open VSX Registry](https://open-vsx.org/extension/SPAjs/tagged-file-snapshots)
+  | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.tagged-file-snapshots)
 
 - Tagged Snapshots -
-  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=SPAjs.tagged-snapshots)
-  | [Open VSX Registry](https://open-vsx.org/extension/SPAjs/tagged-snapshots)
+  [Open VSX Registry](https://open-vsx.org/extension/SPAjs/tagged-snapshots)
+  | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=SPAjs.tagged-snapshots)
 
 - Backup Folder -
-  [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.backup-folder)
-  | [Open VSX Registry](https://open-vsx.org/extension/SPAjs/backup-folder)
+  [Open VSX Registry](https://open-vsx.org/extension/SPAjs/backup-folder)
+  | [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=spajs.backup-folder)
 
 ## ☑️ Requirements
 
